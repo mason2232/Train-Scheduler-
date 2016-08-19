@@ -1,1 +1,15 @@
 body { background-color:red; }
+
+.alpha{height: 300px;
+	   width: 400px;
+	   padding: 100px
+
+}
+
+#bravo{text-align: center;
+	   width: 75%	
+	   border-width thick;
+	   padding: 20px solid;
+
+
+}
